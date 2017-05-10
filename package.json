@@ -45,7 +45,8 @@
     "redis": "^2.6.2",
     "typeahead-aria": "UKHomeOffice/typeahead-aria",
     "uglifyjs": "^2.4.10",
-    "van11y-accessible-tab-panel-aria": "gavboulton/van11y-accessible-tab-panel-aria#feature/keep-href"
+    "van11y-accessible-tab-panel-aria": "gavboulton/van11y-accessible-tab-panel-aria#feature/keep-href",
+    "redis-sentinel-client": "^0.2.5"
   },
   "devDependencies": {
     "watch": "^1.0.1"
